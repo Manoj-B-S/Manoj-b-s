@@ -6,7 +6,7 @@
 - 🤝 I’m looking to collaborate on **tech internships, open-source, and cloud-based projects**
 - 🌱 I’m improving my skills in **Java, Python, SQL, and React**
 - 💬 Ask me about **YOLOv8, Frontend Projects, Python & Java**
-- 📫 How to reach me: **bsmanojBTECH21@ced.alliance.edu.in**
+- 📫 How to reach me: **bsmanoj65@gmail.com**
 - 🌐 All of my projects are available at: [GitHub Portfolio](https://github.com/Manoj-B-S)
 - 🧾 Know more about me: [Resume](https://your-resume-link.com)
 
