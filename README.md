@@ -8,7 +8,7 @@
 - 💬 Ask me about **YOLOv8, Frontend Projects, Python & Java**
 - 📫 How to reach me: **bsmanoj65@gmail.com**
 - 🌐 All of my projects are available at: [GitHub Portfolio](https://github.com/Manoj-B-S)
-- 🧾 Know more about me: [Resume]([https://your-resume-link.com](https://drive.google.com/file/d/1bLINMWge58cR587YkLDMXBEOVKJ_vinv/view?usp=sharing))
+- 🧾 Know more about me: [Resume]((https://drive.google.com/file/d/1bLINMWge58cR587YkLDMXBEOVKJ_vinv/view?usp=sharing))
 
 ---
 
