@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi 👋, I'm Manoj
 
 ### 🎯 A passionate Computer Science student & developer from India
@@ -35,6 +33,3 @@
 
 ---
 
-## 📈 GitHub Stats:
-
-![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoj-B-S&show_icons=true&theme=radical)
